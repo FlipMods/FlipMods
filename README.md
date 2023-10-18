@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing opportunities, Open Source... 
+- 💬 Talk to me about Issues, JavaScript, Freelancing opportunities, Open Source... etc. 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
