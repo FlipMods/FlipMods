@@ -14,13 +14,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on Github projects,  Websites, Commisions, Etc.
+- 🔭 I’m currently working on Github projects,  Websites, Commissions, Etc.
 
 - 🌱 I’m currently learning C# And C++ 
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source... 
+- 💬 Talk to me about Python, JavaScript, Freelancing opportunities, Open Source... 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
