@@ -11,7 +11,7 @@
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
-<img width="55%" align="right" alt="Cake" src="https://i.imgur.com/Vj4Gglr.png" />
+<img width="55%" align="right" alt="Cake" src="https://i.imgur.com/5wtFgM1.png" />
 
 
 - 🔭 I’m currently working on Github projects,  Websites, Commissions, Etc.
