@@ -6,7 +6,7 @@
 <p align='center'>
   
 </p>
-<div size='20px'> Hi! My name is Cake. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Cake, a 15-year-old Old Developer who knows too much at this age. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
