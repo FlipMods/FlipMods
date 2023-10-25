@@ -37,3 +37,5 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://twitter.com/wakecassy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://github.com/GHCoderCass'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<h2>Stats</h2>
+<a href = 'https://github.com/GHCoderCass'> <img width = '2000px' align= 'center' src="https://wakatime.com/share/@CassidyC/8ff48cac-9fde-4008-b3b2-00efe9074bfa.svg"/></a> 
