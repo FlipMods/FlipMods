@@ -41,4 +41,4 @@
 <a href = 'https://github.com/GHCoderCass'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <h2>𝐒𝐭𝐚𝐭𝐬</h2>
 <a href = 'https://github.com/GHCoderCass'> <img width = '2000px' align= 'center' src="https://wakatime.com/share/@CassidyC/8ff48cac-9fde-4008-b3b2-00efe9074bfa.svg"/></a> 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Cake&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+[![Cake's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cakedadev)](https://github.com/anuraghazra/github-readme-stats)
