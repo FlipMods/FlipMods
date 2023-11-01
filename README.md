@@ -18,6 +18,8 @@
 
 - 👯 𝐈’𝐦 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐨𝐧 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐭𝐞𝐜𝐡 𝐚𝐫𝐭𝐢𝐜𝐥𝐞𝐬... 𝐄𝐭𝐜.
 
+- ✅ 𝐈'𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐭𝐲𝐩𝐞𝐬𝐜𝐫𝐢𝐩𝐭
+
 - 💬 𝐓𝐚𝐥𝐤 𝐭𝐨 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐈𝐬𝐬𝐮𝐞𝐬, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬, 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞... 𝐄𝐭𝐜.
   
 - 💪 𝐑𝐨𝐛𝐥𝐨𝐱 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 - <a href= https://cakedadev.github.io/Cakedadev/> <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Roblox_Studio_logo_2021_present.svg/2048px-Roblox_Studio_logo_2021_present.svg.png'> </a>
@@ -26,7 +28,6 @@
 <a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
 <a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
 <a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 <a href= https://github.com/https://github.com/GHCoderCass?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
