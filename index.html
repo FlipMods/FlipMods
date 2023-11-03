@@ -1,130 +1,207 @@
 <!DOCTYPE html>
 <html lang="en">
-<link rel="icon" href="https://i.imgur.com/U0BcVFh.png" type="image/jpg">
 <head>
-  <title>CakeDaDev's Portfolio</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>Cake's Portfolio</title>
   <meta property="og:title" content="Cake's Portfolio" />
   <meta property="og:image" content="https://share.creavite.co/0kLnzboIU5krzrGS.gif" />
   <meta property="og:description" 
   content="Click To View My Portfolio" />
-  <style>
 
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
-      margin: 0;
-      padding: 0;
-    }
-    
-    header {
-      background-color: #333;
-      color: #fff;
-      padding: 20px;
-      text-align: center;
-    }
-    
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    
-    h1 {
-      font-size: 32px;
-      margin-bottom: 20px;
-    }
-    
-    p {
-      font-size: 16px;
-      line-height: 1.5;
-    }
-    
-    .showcase-item {
-      background-color: #fff;
-      border-radius: 5px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      margin-bottom: 20px;
-      padding: 20px;
-    }
-    
-    .pricing-item {
-      background-color: #fff;
-      border-radius: 5px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      margin-bottom: 20px;
-      padding: 20px;
-    }
-    
-    .fade-in {
-      animation: fadeInAnimation 1s ease-in-out forwards;
-    }
-    
-    @keyframes fadeInAnimation {
-      0% { opacity: 0; }
-      100% { opacity: 1; }
-    }
-    
-  </style>
-</head>
-<body>
-  <header>
-    <h1>CakeDaDev's Portfolio</h1>
-  </header>
-  
-  <div class="container">
-    <section id="about" class="fade-in">
-      <h2>About Me</h2>
-      <p>I am a professional programmer/scripter with over 3 years of experience i love to make games and help people as best i can! and i also made this website so use this as proof of skill aswell so yeah!</p>
-    </section>
-    
-    <section id="showcases" class="fade-in">
-      <h2>Showcases</h2>
-      <div class="showcase-item">
-        <h3>Cakes Audio Visualizer</h3>
-        <p>A Beautiful Audio Visualizer Made By Yours Truly, <a href="https://www.roblox.com/games/14886400367/Cakes-Audio-Visualizer"> Play Here</a>.</p>
-      </div>
-      <div class="showcase-item">
-        <h3>Combat System</h3>
-        <p>just a small simple combat system I made in my free time feel free to check it out <a href="https://www.roblox.com/games/15058327051/Combat-Test">Play here</a></p>
-      </div>
-      <div class="showcase-item">
-        <h3>Realistic Water System</h3>
-        <p>just a simple Water system I made in my free time feel free to check it out <a href="https://www.roblox.com/games/15187527700/Realistic-Water">Play here</a></p>
-      </div>
-      <div class="showcase-item">
-        <h3>Racing System</h3>
-        <p>just a small simple Racing System I made in my free time feel free to check it out <a href="https://www.roblox.com/games/15187726435/Racing-System">Play here</a></p>
-      </div>
-      <div class="showcase-item">
-        <h3>Inventory System/Handler</h3>
-        <p>just a small simple Inventory System/Handler I made in my free time feel free to check it out <a href="https://www.roblox.com/games/15187767374/Inventory-System-Handler">Play here</a></p>
-      </div>
-      <div class="showcase-item">
-        <h3>Roblox Profile Creations</h3>
-        <p>Here you can check out all the other creations I have on my Roblox profile now not all of them are good but if you need more proof just ask me to make anything you could need and i will do so! <a href="https://www.roblox.com/users/4947917018/profile#!/creations">here</a></p>
-      </div>
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/bootstrap-theme.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/swiper.min.css">
+  <link href="css/style.css" rel="stylesheet">
 
-    </section>
-    
-    <section id="pricing" class="fade-in">
-      <h2>Pricing</h2>
-      <div class="pricing-item">
-        <h3>Short Term</h3>
-        <p>For commissions for something small that is "short term" depending on what it is i will charge in the range of [100 - 10,000] robux.</p>
-      </div>
-      <div class="pricing-item">
-        <h3>Long Term</h3>
-        <p>For full games or for a full-term scripting job I will charge in the range of [1,000 - 50,000] Robux.</p>
-      </div>
-      <h2>Socials</h2>
-      <div class="pricing-item">
-        <h3><a href="https://github.com/Cakedadev">Github</a></h3>
-        <h3><a href="https://steamcommunity.com/id/CassyWakeUp">Steam</a></h3>
-        <h3><a href="https://twitter.com/wakecassy">Twitter</a></h3>
-        <h3><a href="https://www.youtube.com/channel/UCernhaZRz6Ot7qld1qSMsZQ">Youtube</a></h3>
-      </div>
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Open+Sans:300,400,700" rel="stylesheet">
 
-    </section>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    </head>
+    <body>
+      <header class="hero">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 col-md-offset-6 col-xs-12">
+              <nav>
+                <div id="menu-toggle">
+                  <div class="hamburger">
+                    <span class="line"></span>
+                    <span class="line"></span>
+                    <span class="line"></span>
+                  </div>
+                  <div class="cross">
+                    <span class="line"></span>
+                    <span class="line"></span>
+                  </div>
+                </div>
+                <ul class="main-nav">
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Portfolio</a></li>
+                  <li><a href="#">About</a></li>
+                  <li><a href="#">Contact</a></li>
+                </ul>
+              </nav>
+              <!-- <a href="#" class="menu"><img src="assets/menu.png"></a> -->
+              <div class="hero-text">
+                <h1><span>Hi, I am</span><br>Cake'.</h1>
+                <h3>Developer with 4+ Years Of Experience</h3>
+                <ul class="social-links">
+                  <li class="label">Join me here</li>
+                  <li><a href="https://twitter.com/WakeCassy"><img src="./twitter.png"></a></li>
+                  <li><a href="https://github.com/Cakedadev"><img src="./github.png"></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <section class="case-study">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h4 class="sub-heading">Exclusively</h4>
+              <h1 class="heading purple"><span class="purple">works</span> with <br>Advanced Programs</h1>
+              <!-- Swiper -->
+      </div>
+    </div>
   </div>
-</body>
-</html>
+</section>
+      <!-- Statistics -->
+      <section class="stats">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4 text-center stat-box">
+              <h1 class="purple"><span class="counter">1.4</span>k</h1>
+              <h3>Hours</h3>
+            </div>
+            <div class="col-md-4 text-center stat-box">
+              <h1 class="blue counter">142</h1>
+              <h3>Projects</h3>
+            </div>
+            <div class="col-md-4 text-center stat-box">
+              <h1 class="pink"><span class="counter">125</span></h1>
+              <h3>Cups of Coffee</h3>
+            </div>
+          </div>
+        </div>
+      </section>
+
+
+      <!-- Footer -->
+      <footer>
+        <div class="container-fluid">
+          <div class="row footer">
+            <div class="col-md-12 text-center">
+              <h1>CakeDaDev<br><span></span></h1>
+              <ul class="social-links">
+                <li><a href="https://twitter.com/WakeCassy"><img src="assets/twitter.png"></a></li>
+                <li><a href="https://github.com/Cakedadev"><img src="assets/github.png"></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="row sub-footer">
+            <div class="col-md-12 text-center">
+              <p>Designed by <a href="#" target="_blank">@CakeDaDev</a>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+      <!-- Some Javascript -->
+      <script src="js/jquery-2.1.1.js"></script>
+      <script src="js/swiper.jquery.min.js"></script>
+      <!-- Initialize Client Swiper -->
+      <script>
+      var swiper1 = new Swiper('.client-swiper', {
+        slidesPerView: 3,
+        paginationClickable: true,
+        nextButton: '.swiper-button-next',
+        prevButton: '.swiper-button-prev',
+        spaceBetween: 60,
+        // Responsive breakpoints
+        breakpoints: {
+          // when window width is <= 320px
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 10,
+            pagination: '.swiper-pagination'
+          },
+          // when window width is <= 480px
+          480: {
+            slidesPerView: 1,
+            spaceBetween: 20
+          },
+          // when window width is <= 640px
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 30
+          }
+        }
+      });
+      // Initialize Testimonial Swiper
+      var swiper2 = new Swiper('.testimonial-swiper', {
+        slidesPerView: 3,
+        pagination: '.swiper-pagination',
+        paginationClickable: true,
+        spaceBetween: 30,
+        grabCursor: true,
+        freeMode: true,
+        breakpoints: {
+          // when window width is <= 320px
+          320: {
+            slidesPerView: 1,
+            spaceBetween: 10,
+          },
+          // when window width is <= 480px
+          480: {
+            slidesPerView: 1,
+            spaceBetween: 10
+          },
+          // when window width is <= 640px
+          640: {
+            slidesPerView: 1,
+            spaceBetween: 10
+          }
+        }
+      });
+      </script>
+      <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+      <script src="js/jquery.counterup.min.js"></script>
+      <script>
+      // Counterup
+      $('.counter').counterUp({
+        time: 1000
+      });
+
+      // Main Navigation
+      $('#menu-toggle').click(function(){
+        $(this).toggleClass('open'),
+        $('.main-nav').toggleClass('show-it');
+      })
+      </script>
+
+      <!-- Google Analytics - You should remove this -->
+      <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-29231762-2', 'auto');
+      ga('send', 'pageview');
+
+      </script>
+    </body>
+    </html>
