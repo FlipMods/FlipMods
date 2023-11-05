@@ -8,8 +8,8 @@
 </p>
 <div size='20px'> 𝐇𝐢! 𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐂𝐚𝐤𝐞, 𝐚 𝟏𝟓-𝐲𝐞𝐚𝐫-𝐨𝐥𝐝 𝐎𝐥𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐡𝐨 𝐤𝐧𝐨𝐰𝐬 𝐭𝐨𝐨 𝐦𝐮𝐜𝐡 𝐚𝐭 𝐭𝐡𝐢𝐬 𝐚𝐠𝐞. 𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐟𝐨𝐫 𝐭𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐭𝐢𝐦𝐞 𝐭𝐨 𝐯𝐢𝐞𝐰 𝐦𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 :smile: 
 </div>
-
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<img src = "https://i.pinimg.com/originals/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg" width='250px' height='250px'>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Cake" src="https://i.imgur.com/A88dLkW_d.webp?maxwidth=760&fidelity=grand" />
 
