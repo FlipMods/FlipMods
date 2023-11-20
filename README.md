@@ -11,7 +11,7 @@
 <img src = "https://i.pinimg.com/originals/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg" width='250px' height='250px'>
 <h2> About Me </h2>
 <a href= https://cakedadev.github.io/miscsites/iwfay> <img width ='350px' height='250px' src ='https://postsecret.com/wp-content/uploads/2023/11/behind.jpg'> </a>
-<img width="55%" align="right" alt="Cake" src="https://i.imgur.com/A88dLkW_d.webp?maxwidth=760&fidelity=grand" />
+<img width="55%" align="right" alt="Cake" src="https://i.imgur.com/aKvzgNv_d.webp?maxwidth=760&fidelity=grand" />
 
 
 - 🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐆𝐢𝐭𝐡𝐮𝐛 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬, 𝐖𝐞𝐛𝐬𝐢𝐭𝐞𝐬, 𝐂𝐨𝐦𝐦𝐢𝐬𝐬𝐢𝐨𝐧𝐬, 𝐄𝐭𝐜.
