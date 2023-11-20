@@ -1,6 +1,3 @@
-<div align="center">
-<img width="100%" height = "330px" src="https://i.imgur.com/ipw7P83_d.webp?maxwidth=760&fidelity=grand" alt="cover" />
-</div>
 
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐅𝐞𝐥𝐥𝐨𝐰 <𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐞𝐫𝐬/><img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
