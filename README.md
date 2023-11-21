@@ -39,7 +39,7 @@
 
 <h2> 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://twitter.com/wakecassy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://github.com/Cakedadev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://github.com/CassidyCamp'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 <h2>𝐒𝐭𝐚𝐭𝐬</h2>
-<a href = 'https://github.com/Cakedadev'> <img width = '2000px' align= 'center' src="https://wakatime.com/share/@CassidyC/8ff48cac-9fde-4008-b3b2-00efe9074bfa.svg"/></a> 
-<a href = 'https://github.com/Cakedadev'> <img width = '2000px' align= 'center' src="https://github-readme-stats.vercel.app/api?username=CassidyCamp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a> 
+<a href = 'https://github.com/CassidyCamp'> <img width = '2000px' align= 'center' src="https://wakatime.com/share/@CassidyC/8ff48cac-9fde-4008-b3b2-00efe9074bfa.svg"/></a> 
+<a href = 'https://github.com/CassidyCamp'> <img width = '2000px' align= 'center' src="https://github-readme-stats.vercel.app/api?username=CassidyCamp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a> 
