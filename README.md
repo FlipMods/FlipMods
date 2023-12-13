@@ -10,7 +10,7 @@
 </div>
 <img src = "https://i.pinimg.com/originals/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg" width='250px' height='250px'>
 <h2> About Me </h2>
-<a href= https://cakedadev.github.io/miscsites/iwfay> <img width ='350px' height='250px' src ='https://postsecret.com/wp-content/uploads/2023/11/behind.jpg'> </a>
+<a href= https://cassidycamp.github.io/miscsites/iwfay> <img width ='350px' height='250px' src ='https://postsecret.com/wp-content/uploads/2023/11/behind.jpg'> </a>
 <img width="55%" align="right" alt="Cake" src="https://i.imgur.com/aKvzgNv_d.webp?maxwidth=760&fidelity=grand" />
 
 
@@ -22,19 +22,19 @@
 
 - 💬 𝐓𝐚𝐥𝐤 𝐭𝐨 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐈𝐬𝐬𝐮𝐞𝐬, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐅𝐫𝐞𝐞𝐥𝐚𝐧𝐜𝐢𝐧𝐠 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬, 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞... 𝐄𝐭𝐜.
   
-- 💪 Personal Website - <a href= https://cakedadev.github.io/Cakedadev/> <img width ='32px' height='32px' src ='https://i.imgur.com/A88dLkW_d.webp?maxwidth=760&fidelity=grand'> </a>
+- 💪 Personal Website - <a href= https://cassidycamp.github.io/cassidycamp/> <img width ='32px' height='32px' src ='https://i.imgur.com/A88dLkW_d.webp?maxwidth=760&fidelity=grand'> </a>
 
 <h2> 𝐒𝐤𝐢𝐥𝐥𝐬 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=codepen&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codepen.svg'> </a>
-<a href= https://github.com/Cakedadev?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=codepen&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/codepen.svg'> </a>
+<a href= https://github.com/cassidycamp?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 + 𝐌𝐚𝐧𝐲 𝐌𝐨𝐫𝐞
 
 <h2> 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
