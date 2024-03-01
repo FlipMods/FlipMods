@@ -6,11 +6,11 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer who makes lethal company mods
+I'm a full stack developer who makes lethal company mods, software, websites, etc.
 
 👩‍💻 I'm currently working on more lethal company mods
 
-🧠 I'm currently learning common mod making techniques
+🧠 I'm currently learning common programming techniques
 
 
 
