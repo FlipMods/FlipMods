@@ -17,3 +17,4 @@ I'm a full stack developer who makes lethal company mods, software, websites, et
 ## 🛠 Skills
 Javascript, HTML, CSS, C#, C++, Vue, Reactjs, Golang, Python, Etc.
 
+"Remember You May Think You Know All About A Certain Topic, However Remember You Can Always Learn More" - FlipMods
