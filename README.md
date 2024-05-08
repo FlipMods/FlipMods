@@ -28,3 +28,6 @@ Javascript, HTML, CSS, C#, C++, Vue, Reactjs, Golang, Python, Etc.
 ## Yearly Quote
 > [!TIP]
 > "Remember You May Think You Know All About A Certain Topic, However Remember You Can Always Learn More" - FlipMods 2024
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flipmods&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=flipmods&theme=dracula)
